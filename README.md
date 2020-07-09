@@ -6,9 +6,15 @@ Work in Progress
 ## All Planned Features for Release
   - Texture Memory Management
   - All Planets Weather System
-       - Rain, Sunny/clear, Fog/Mist, Cloudy, Sandstorm, Sunset/sunrise, Storm, Hail, Snow, Smg
+       - Sunny/clear 
+       - Sunset/sunrise 
+       - Cloudy
+       - Fog/Mist
+       - Rain 
+       - Sandstorm
+       - Storm 
+       - Hail 
+       - Snow
+       
 
-100. First list item
-     - First nested list item
-       - Second nested list item
 
