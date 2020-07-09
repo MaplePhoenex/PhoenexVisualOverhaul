@@ -3,7 +3,7 @@ For KSP 1.8.1. WiP
 
 Work in Progress
 
-## All Planned Features for Release
+## Features for Release
   - Texture Memory Management
   - All Planets Weather System
        - Sunny/clear 
@@ -15,6 +15,6 @@ Work in Progress
        - Storm 
        - Hail 
        - Snow
-       
+.
 
 
