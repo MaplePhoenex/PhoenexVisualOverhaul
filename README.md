@@ -5,5 +5,10 @@ Work in Progress
 
 ## All Planned Features for Release
   - Texture Memory Management
-  - Full Weather System
- - Snow
+  - All Planets Weather System
+       - Rain, Sunny/clear, Fog/Mist, Cloudy, Sandstorm, Sunset/sunrise, Storm, Hail, Snow, Smg
+
+100. First list item
+     - First nested list item
+       - Second nested list item
+
